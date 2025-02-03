@@ -37,8 +37,8 @@ How to get this project running locally.
 
 1. Clone the repository:
 ```powershell
-git clone git@github.com:generation-de-nat3/ShaqM_Mini_Project.git
-cd ShaqM_Mini_Project
+git clone https://github.com/ShaqMDV/Cafe-CLI-app.git
+cd Cafe-CLI-app
 ```
 2. Change git remote url to avoid accidental pushes to the original project
 ```powershell
@@ -49,8 +49,8 @@ git remote -v # To confirm your changes
 3. Build and run the Docker container:
 
 ```powershell
-docker build -t shaq-miniproject .
-docker run -it shaq-miniproject
+docker build -t cafe-cli-app .
+docker run -it cafe-cli-app
 ```
 # Usage
 In your terminal, run the following line to start the app:
