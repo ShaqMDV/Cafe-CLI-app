@@ -1,0 +1,5 @@
+[
+        {"customer_name":"customer one","customer_address":"19 Amberly Rd", "phone_number":"07940134452","status":"Preparing"},
+          {"customer_name":"customer two","customer_address":"3 Moon Rd", "phone_number":"07540977851","status":"Preparing"},
+          {"customer_name":"customer three","customer_address":"62 Brolic Rd", "phone_number":"07921237687","status":"Out For Delivery"}
+          ]

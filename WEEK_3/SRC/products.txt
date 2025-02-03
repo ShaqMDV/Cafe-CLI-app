@@ -1,0 +1,10 @@
+1, Wireless Bluetooth Speaker, 19.99
+2, Microphone, 15.99
+3, Graphing Calculator, 34.99
+4, Ring Light, 5.99
+5, Keyboard, 10.99
+6, Webcam, 11.99
+7, Noise cancelling Headphones, 54.99
+8, Powerbank Phone Charger, 20.00
+9, Phone Charger Adapter, 6.99
+10, Blue Light Glasses, 11.99

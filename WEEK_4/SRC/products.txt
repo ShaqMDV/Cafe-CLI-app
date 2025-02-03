@@ -1,0 +1,10 @@
+Jasmine Tea,3.8
+Chai Latte,4.2
+Espresso,2.5
+Plain Croissant,3.2
+Blueberry Muffin,3.8
+All day Brunch,14.5
+Tuna & Cheddar Toastie,10.0
+Avacado Salad,13.0
+Caeser Salad,8.99
+Hotdog,7.5
